@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="ProjectPlainTextFileTypeManager">
+    <file url="file://$PROJECT_DIR$/resources/views/admin/dashboard.html" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/icons.html" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/map.html" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/notifications.html" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/tables.html" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/typography.html" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/upgrade.html" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/user.html" />
+  </component>
+</project>
